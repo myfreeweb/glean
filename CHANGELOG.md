@@ -2,6 +2,9 @@
 
 [Full changelog](https://github.com/mozilla/glean/compare/v33.6.0...main)
 
+* Rust
+  * Introduce the Event metric type in the RLB ([#1361](https://github.com/mozilla/glean/pull/1361)).
+
 # v33.6.0 (2020-12-02)
 
 [Full changelog](https://github.com/mozilla/glean/compare/v33.5.0...v33.6.0)
